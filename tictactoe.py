@@ -1,4 +1,3 @@
-# David Barnes CIS 345 T-Th 12:00 P.M. Assignment 7
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
